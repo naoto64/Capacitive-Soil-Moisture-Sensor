@@ -5,3 +5,8 @@
 ## 製品画像
 <img src="./img/board-front.jpg" alt="静電容量式レインセンサ表面" width="75%">
 <img src="./img/board-back.jpg" alt="静電容量式レインセンサ表面" width="75%">
+
+## 静電容量検出基板
+この製品は静電容量値の検出回路が別途必要です。
+別売で、このセンサにも対応している静電容量式レインセンサ検出基板があります。
+[静電容量式レインセンサ検出基板](https://naoto64.github.io/Rain-Capacitance-Sensor/ "静電容量式レインセンサ検出基板")
